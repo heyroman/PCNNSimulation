@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/modules/java/android_test/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/modules/java/test/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/platforms/android/service/engine/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/platforms/android/service/engine_test/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/android/15-puzzle/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/android/camera-calibration/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/android/color-blob-detection/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/android/face-detection/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/android/image-manipulations/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/android/native-activity/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/android/tutorial-1-camerapreview/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/android/tutorial-2-mixedprocessing/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/android/tutorial-3-cameracontrol/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/android/tutorial-4-cuda/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/java/ant/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/java/eclipse/HelloCV/src" />
+      <root url="file://$USER_HOME$/OpenCV/opencv/sources/samples/java/sbt/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
